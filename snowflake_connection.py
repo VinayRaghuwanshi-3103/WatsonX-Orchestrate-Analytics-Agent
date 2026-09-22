@@ -1,2 +1,2 @@
 import snowflake.connector
-print("✅ Connector works!")
+print("✅ Connector works")
